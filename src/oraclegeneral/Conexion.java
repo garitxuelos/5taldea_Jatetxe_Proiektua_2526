@@ -130,7 +130,7 @@ public class Conexion {
             return false;
         }
         return true;
-
+//Aldaketa bat nire adarrean.
     }
 
     /**
